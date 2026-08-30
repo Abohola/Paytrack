@@ -2,6 +2,10 @@
 
 Paytrack is a simple, private Android expense tracker with a crimson liquid-glass interface.
 
+## Download
+
+[Download Paytrack 1.0.0 APK](https://github.com/Abohola/Paytrack/releases/download/v1.0.0/Paytrack-1.0.0.apk) (Android 6.0 or newer)
+
 ## Features
 
 - Fast expense entry with amount, description, category, date, and time

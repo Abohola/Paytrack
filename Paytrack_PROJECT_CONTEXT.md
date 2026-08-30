@@ -41,4 +41,6 @@ Version 1.0.0 is feature-complete and built on 2026-08-30. The local release art
 
 Implemented: expense add/edit/delete, seven categories, current timestamp capture, monthly total, daily-average and largest-expense insights, history search and filters, custom/preset export ranges, Excel-safe UTF-8 CSV, and a themed adaptive wallet icon.
 
-Known limitation: no Android device or emulator was connected during this run, so validation covered compilation, unit tests, lint, APK metadata, permissions, and signing rather than an interactive device smoke test. GitHub publication is pending valid GitHub CLI authentication.
+Known limitation: no Android device or emulator was connected during this run, so validation covered compilation, unit tests, lint, APK metadata, permissions, and signing rather than an interactive device smoke test.
+
+Published references: source commit `fd50801`, repository <https://github.com/Abohola/Paytrack>, release <https://github.com/Abohola/Paytrack/releases/tag/v1.0.0>, and direct APK <https://github.com/Abohola/Paytrack/releases/download/v1.0.0/Paytrack-1.0.0.apk>.
